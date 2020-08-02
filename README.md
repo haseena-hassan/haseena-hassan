@@ -14,6 +14,8 @@
 
 ![Haseena's github stats](https://github-readme-stats.vercel.app/api?username=haseena-hassan&theme=default&show_icons=true)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseena-hassan&layout=compact)  -->
+
 
 
 **Reach me at**
