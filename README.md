@@ -20,10 +20,24 @@
 
 **Reach me at**
 
-<p align="center">  
-<a href="https://www.linkedin.com/in/haseena-hassan"><img align="left" alt="guilyx's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" /></a>
-<a href="mailto:haseena2199@gmail.com"><img align="left" alt="guilyx's Email" width="30px" src="https://img.icons8.com/plasticine/400/000000/gmail.png" /></a>
- <a href="https://twitter.com/HaseenaHassan4"><img align="left" alt="guilyx | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /></a>
-</p>
+
+<a href="https://linkedin.com/in/haseena-hassan">
+  <img align="left" alt="Haseena's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/haseena-hassan">
+  <img align="left" alt="Haseena's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://wa.me/+919446712614">
+  <img align="left" alt="Haseena's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a href="https://instagram.com/ha.c.na">
+  <img align="left" alt="Haseena's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="mailto:haseena2199@gmail.com">
+  <img align="left" alt="Haseena's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://twitter.com/HaseenaHassan4">
+  <img align="left" alt="Haseena's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 <img align='right' src="https://pageview.vercel.app/?github_user=haseena-hassan">
