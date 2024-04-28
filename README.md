@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif?cid=ecf05e47gguzjme5vjxkibxc8etijvouq8qk7xj3quvm0ls4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
 
-- I am a Software Developer with a love for coding and problem-solving, driven by a continuous learning mindset. I bring 3 years of foundational expertise in cybersecurity, specializing in identity and access management within the Healthcare domain.
+- I am a Software Developer, driven by a continuous learning mindset. I bring 3 years of foundational expertise in cybersecurity, specializing in identity and access management within the Healthcare domain.
 
 - In addition to my cybersecurity background, I've actively pursued full-stack development out of passion through engaging side projects. While my primary focus lies in the JavaScript stack, I've also delved into Java and Python application development, broadening my skill set and perspective.
 
