@@ -1,21 +1,21 @@
 
 
 
-<h1 align="center">hi i'm haseena hassan</h1>
+<h1 align="center">Hey, Meet Haseena Hassan !</h1>
 
 <img align='right' src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif?cid=ecf05e47gguzjme5vjxkibxc8etijvouq8qk7xj3quvm0ls4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
 
 - I am a Software Developer, driven by a continuous learning mindset. I bring
-  -  Healthcare Cybersecurity (3 years): Developed secure software solutions in a highly regulated domain.
-  -  Ed-Tech Industry (1 year, part-time during college): Worked as a Product Developer intern, contributing to educational technology advancements.
-  -  Supply Chain Project at IBM (2 months): Interned on a project modernizing EDI specifications using chatbots, enhancing supply chain operations.
+  -  **Healthcare Cybersecurity (3 years)**: Developed secure software solutions in a highly regulated domain.
+  -  **Ed-Tech Industry** (1 year, part-time during college): Worked as a Product Developer intern, contributing to educational technology advancements.
+  -  **Supply Chain Project at IBM** (2 months): Interned on a project modernizing EDI specifications using chatbots, enhancing supply chain operations.
 
 - Application development stack: Java, SpringBoot, Hibernate, JUnits, Spring MVC, Spring JPA, Microservices
 - Web dev Stack: NodeJS, ExpressJS, Typescript, HTML, CSS, Bootstrap, ReactJS
 - Cloud: Azure(Functions, AKS, Entra ID, App service, SSO, Sentinel, Azure DevOps, Repos, SQL Server), AWS(EC2, Storage, NSG), GCP(Compute, Load balancing, Batch processing, Cron jobs)
 - Databases: MySQL, MongoDB, PostgreSQL
   
-- Don’t see your tech in my skills? If your opportunity excites me, I'll master the tech to make it happen. Challenge accepted! 🚀
+- **Don’t see your tech in my skills? If your opportunity excites me, I'll master the tech to make it happen. Challenge accepted!** 🚀
 
 - If you wanna check out my latest side projects pinned below.
 - Visit my Portfolio <a href="https://haseena-hassan.github.io">haseena-hassan.github.io</a> which I have build using ReactJS, HTML, CSS styling, CSS Media Queries and GitHub Pages.
