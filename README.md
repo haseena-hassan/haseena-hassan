@@ -17,10 +17,6 @@
   
 - **Don’t see your tech in my skills? If your opportunity excites me, I'll master the tech to make it happen. Challenge accepted!** 🚀
 
-- If you wanna check out my latest side projects pinned below.
-- Visit my Portfolio <a href="https://haseena-hassan.github.io">haseena-hassan.github.io</a> which I have build using ReactJS, HTML, CSS styling, CSS Media Queries and GitHub Pages.
-
-- Open to new opportunities and eager to collaborate great teams. If you think my profile fits your needs or simply want to connect, feel free to reach out via any of my contact channels.  
 
 
 <!-- ![Haseena's github stats](https://github-readme-stats.vercel.app/api?username=haseena-hassan&theme=default&show_icons=true) -->
@@ -31,7 +27,9 @@
 
 **Reach me at**
 
-
+<a href="https://haseena-hassan.github.io" target="_blank">
+  <img align="left" alt="Haseena's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/superuser.svg" />
+</a>
 <a href="https://linkedin.com/in/haseena-hassan">
   <img align="left" alt="Haseena's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
