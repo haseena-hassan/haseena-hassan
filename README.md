@@ -15,7 +15,7 @@
 - Cloud: Azure(Functions, AKS, Entra ID, App service, SSO, Sentinel, Azure DevOps, Repos, SQL Server), AWS(EC2, Storage, NSG), GCP(Compute, Load balancing, Batch processing, Cron jobs)
 - Databases: MySQL, MongoDB, PostgreSQL
   
-- **Don’t see your tech in my skills? If your opportunity excites me, I'll master the tech to make it happen. Challenge accepted!** 🚀
+- **Don’t see your tech in my skills? If your opportunity excites me, I'll master the tech to make it happen!!** 
 
 
 
